@@ -10,7 +10,7 @@ Technical documentations of the individual component are inside of each of the c
 
 Below are more general, audience-facing descriptions of the currently-available components.
 
-###### Component 1: composition, _generative_
+## Component 1: composition, _generative_
 
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.42.06%20PM.png)
 
