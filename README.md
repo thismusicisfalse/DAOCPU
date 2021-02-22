@@ -26,7 +26,7 @@ By downloading the code, and also CHUCK's miniAudicle, a user may listen to / ru
 
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.52.51%20PM.png)
 
-The generative composition may also be paired with the Dao De Jing analysis program. In this combination, the Dao De Jing analysis program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
+The generative composition may also be paired with the Dao De Jing analysis program. In this combination, the Dao De Jing analysis program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and mapping different punctuations to durations. It also takes over the introduction-of-mantra function (from the conductor program).
 
 This component may also be used as a "backing track" for an improvizer to perform alongside. A backing track version of the composition is currently under development.
 
