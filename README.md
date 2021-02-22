@@ -68,6 +68,9 @@ Some graphic scores come with text-based explanations (usually in the form of "k
 
 (Under development)
 
+![](imagesStorage/costume1.png)
+![](imagesStorage/costume2.png)
+
 ---
 
 ## Component 5: Libretto, _generative_
