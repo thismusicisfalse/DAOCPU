@@ -66,6 +66,8 @@ Some graphic scores come with text-based explanations (usually in the form of "k
 
 ## Component 5: Fabric patterns, _generative_
 
+Custom fabrics (for costumes etc.) via services such as WOVNS (https://www.wovns.com/)...
+
 (Under development)
 
 ![](imagesStorage/costume1.png)
