@@ -52,3 +52,16 @@ Some graphic scores come with text-based explanations (usually in the form of "k
 
 ![](imagesStorage/190920.jpg)
 
+---
+
+## Component 4: Musical instrument
+
+(Under development)
+
+---
+
+## Component 5: Fabric patterns
+
+(Under development)
+
+
