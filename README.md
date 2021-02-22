@@ -10,6 +10,8 @@ Technical documentations of the individual component are inside of each of the c
 
 Below are more general, audience-facing descriptions of the currently-available components.
 
+---
+
 ## Component 1: composition, _generative_
 
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.42.06%20PM.png)
@@ -21,6 +23,8 @@ By downloading the code, and also CHUCK's miniAudicle, a user may listen to / ru
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.52.51%20PM.png)
 
 The generative composition may also be paired with the visualization program. In this combination, the visualization program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
+
+---
 
 ## Component 2: Dao De Jing analysis, _generative_
 
