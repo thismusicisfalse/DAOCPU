@@ -46,9 +46,9 @@ The program performs additional sentiment analysis on the filtered text, using G
 
 ## Component 3: Drawings, _other_
 
-These drawings are like visual logs of the evolution of _Ensembl_. They describe (from one perspective) structures, relationship, and interactions. They are not generative in the same way that components 1 & 2 are, as the marks are fixed. But they may be used as prompters for other actions, for example, as graphic scores for music performance. 
+These drawings are like visual logs of the evolution of _Ensembl_. They describe (from one perspective) structures, relationship, and interactions. They are not generative in the same way that components 1 & 2 are, as the marks are fixed, but they may be used as prompters for other actions, for example, as graphic scores for music improvization. 
 
-Some graphic scores come with text-based explanations (usually in the form of "key to notation"); in other graphic scores, intepretation is left open. The drawings in _DAOCPU_ do not offer key-to-notations, but their intepretation is still informed by its relationship with _Ensembl_, as well as with the other components within _DAOCPU_.
+Some graphic scores come with text-based explanations (usually in the form of "key to notation"); in other graphic scores intepretation is left open. The drawings in _DAOCPU_ do not offer key-to-notations, but their intepretation is still informed by its relationship with _Ensembl_, as well as with the other components within _DAOCPU_.
 
 ![](imagesStorage/190920.jpg)
 
