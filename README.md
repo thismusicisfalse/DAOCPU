@@ -22,7 +22,7 @@ By downloading the code, and also CHUCK's miniAudicle, a user may listen to / ru
 
 The generative composition may also be paired with the visualization program. In this combination, the visualization program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
 
-## Component 2: Dao De Jing, _generative_
+## Component 2: Dao De Jing analysis, _generative_
 
 This is a text analysis program written in Processing. The program was mainly designed to perform analysis on a text, so that the results may be used to generate other non-text features (time for music, visual for costumes, 3d models, etc.). But it may also be viewed on its own.
 
