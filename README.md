@@ -1,10 +1,10 @@
 ![](imagesStorage/Screenshot%202021-02-19%20at%204.51.00%20PM.png)
 
-_DAOCPU_ is a composition that was informed by and developed in parallel to _Ensembl: An Ethereum-Based Platform for Decentralised Organising of Artistic Production_, which was initiated by Samson Young, Dr. Massimiliano Mollona, and MetaObjects (Andrew Crowe and Ashley Lee Wong) in 2020 (https://www.goethe.de/ins/gb/en/ver.cfm?fuseaction=events.detail&event_id=22087803).
+_DAOCPU_ is a composition that was informed by and developed in parallel to _Ensembl: An Ethereum-Based Platform for Decentralised Organising of Artistic Production_. _Ensembl_ was initiated by Samson Young, Dr. Massimiliano Mollona, and MetaObjects (Andrew Crowe and Ashley Lee Wong) in 2020 (https://www.goethe.de/ins/gb/en/ver.cfm?fuseaction=events.detail&event_id=22087803).
 
 At present, _DAOCPU_ is consisted of (1) a generative electronic composition written in CHUCK (https://chuck.cs.princeton.edu/); (2) a text visualization and analysis program written in Processing (https://processing.org/), which, is a standalone program but also has a "latent" relationship with the generative composition and may be played together; (3) drawings, which are inspired by the interactions that led to the development of _Ensembl_ (a sort of off-chain record of version history). Future components of _DAOCPU_ will include: musical instrument design, libretto, and costume. There are two categories of components: "generative" components, and "other" components. 
 
-_DAOCPU_ encourages redistribution. The components within _DAOCPU_ may be listened to / viewed on their own. They may also be implemented as basis for recompositions and reperformance. While recomposition is always already possible, _DAOCPU_ includes more detailed documentation than what is usually available. _DAOCPU_ pays tribute to and contributes towards _Ensembl_, but is independent from it. It was inspired by, but also comments on, the evolving dynamics within _Ensembl_.
+_DAOCPU_ encourages redistribution. The components within _DAOCPU_ may be listened to / viewed on their own. They may also be implemented as basis for recompositions and reperformance. While recomposition is always already possible, _DAOCPU_ tries to encourage it by including more technical documentation. _DAOCPU_ pays tribute to and contributes towards _Ensembl_, but is independent from it. It was inspired by, but also comments on, the evolving dynamics within _Ensembl_.
 
 Technical documentations of the individual component are inside of each of the component's folder.
 
@@ -40,5 +40,15 @@ The program then performs phoneme analysis on the filtered text. Each phoneme is
 
 ![](imagesStorage/Screenshot%202021-02-19%20at%204.49.16%20PM.png)
 
-The program performs additional sentiment analysis on the filtered text, using Google's Natural Language API (https://cloud.google.com/natural-language/). At present, this is provided as a feature but is not visualized or sonified.
+The program performs additional sentiment analysis on the filtered text, using Google's Natural Language API (https://cloud.google.com/natural-language/). At present, this is provided as a feature, but is not visualized or sonified.
+
+---
+
+## Component 3: Drawings, _other_
+
+These drawings are like visual logs of the evolution of _Ensembl_. They describe (from one perspective) structures, relationship, and interactions. They are not generative in the same way that components 1 & 2 are, as the marks are fixed. But they may be used as prompters for other actions, for example, as graphic scores for music performance. 
+
+Some graphic scores come with text-based explanations (usually in the form of "key to notation"); in other graphic scores, intepretation is left open. The drawings in _DAOCPU_ do not offer key-to-notations, but their intepretation is still informed by its relationship with _Ensembl_, as well as with the other components within _DAOCPU_.
+
+![](imagesStorage/190920.jpg)
 
