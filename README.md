@@ -32,9 +32,8 @@ The program then performs phoneme analysis on the filtered text. Each phoneme is
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/001.png" width="200"/> 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/002.png" width="200"/>
-<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/phonemeChartnew.png"> 
-
+<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/phonemeChartNew.png"> 
 ![](imagesStorage/Screenshot%202021-02-19%20at%204.49.16%20PM.png)
 
-The program also performs additional sentiment analysis on the filtered text, using Google's Natural Language API (https://cloud.google.com/natural-language/). At present, this feature is provided, but is not linked to any non-text features.
+The program performs additional sentiment analysis on the filtered text, using Google's Natural Language API (https://cloud.google.com/natural-language/). At present, this is provided as a feature but is not visualized or sonified.
 
