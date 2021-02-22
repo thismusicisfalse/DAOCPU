@@ -71,7 +71,6 @@ Custom fabrics (for costumes etc.) via services such as WOVNS (https://www.wovns
 (Under development)
 
 ![](imagesStorage/costume1.png)
-![](imagesStorage/costume2.png)
 
 ---
 
