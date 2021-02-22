@@ -75,4 +75,4 @@ Some graphic scores come with text-based explanations (usually in the form of "k
 
 ## Component 5: Libretto, _generative_
 
-(Under development)
+![](imagesStorage/text.png)
