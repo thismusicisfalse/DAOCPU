@@ -1,12 +1,10 @@
-# DAOCPU
-
 ![](imagesStorage/Screenshot%202021-02-19%20at%204.51.00%20PM.png)
 
 _DAOCPU_ is a composition that was informed by and developed in parallel to _Ensembl: An Ethereum-Based Platform for Decentralised Organising of Artistic Production_. _Ensembl_ was initiated by Samson Young, Dr. Massimiliano Mollona, and MetaObjects (Andrew Crowe and Ashley Lee Wong) in 2020 (https://www.goethe.de/ins/gb/en/ver.cfm?fuseaction=events.detail&event_id=22087803).
 
-At present, _DAOCPU_ is consisted of (1) a generative electronic composition written in CHUCK (https://chuck.cs.princeton.edu/); (2) a text visualization and analysis program written in Processing (https://processing.org/), which, is a standalone program but also has a "latent" relationship with the generative composition and may be played together; (3) drawings, which are inspired by the interactions that led to the development of _Ensembl_ (a sort of off-chain record of version history). Future components of _DAOCPU_ will include: musical instrument design, libretto, and costume. There are two categories of components: "generative" components, and "other" components. 
+At present, _DAOCPU_ is consisted of (1) a generative electronic composition written in CHUCK (https://chuck.cs.princeton.edu/); (2) a text visualization and analysis program written in Processing (https://processing.org/), which, is a standalone program but also has a "latent" relationship with the generative composition and may be played together; (3) drawings, which are inspired by the interactions that led to the development of _Ensembl_ (a sort of off-chain record of version history). Future components of _DAOCPU_ will include: musical instrument design, libretto, and costume. There are two categories of components: "generative" components, and "other" components. Some components are in place, others are under development.
 
-_DAOCPU_ encourages redistribution. The components within _DAOCPU_ may be listened to / viewed on their own. They may also be implemented as basis for recompositions and reperformance. While recomposition is always already possible, _DAOCPU_ tries to encourage it by including more technical documentation. _DAOCPU_ pays tribute to and contributes towards _Ensembl_, but is independent from it. It was inspired by, but also comments on, the evolving dynamics within _Ensembl_.
+_DAOCPU_ wants to encourage redistribution. The components within _DAOCPU_ may be listened to / viewed on their own. They may also be implemented as basis for recompositions and reperformance. While recomposition is always already possible, _DAOCPU_ tries to encourage it by including more technical documentation. _DAOCPU_ pays tribute to and contributes towards _Ensembl_, but is independent from it. It was inspired by, but also comments on, the evolving dynamics within _Ensembl_.
 
 Technical documentations of the individual component are inside of each of the component's folder.
 
@@ -25,6 +23,8 @@ By downloading the code, and also CHUCK's miniAudicle, a user may listen to / ru
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.52.51%20PM.png)
 
 The generative composition may also be paired with the visualization program. In this combination, the visualization program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
+
+This component may also be used as a "backing track" for an improvizer to perform alongside. Documentation for the backing track version is currently under development.
 
 ---
 
@@ -56,14 +56,18 @@ Some graphic scores come with text-based explanations (usually in the form of "k
 
 ---
 
-## Component 4: Musical instrument
+## Component 4: Musical instrument, _other_
 
 (Under development)
 
 ---
 
-## Component 5: Fabric patterns
+## Component 5: Fabric patterns, _generative_
 
 (Under development)
 
+---
 
+## Component 5: Libretto, _generative_
+
+(Under development)
