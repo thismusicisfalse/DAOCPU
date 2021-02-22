@@ -30,9 +30,9 @@ The program takes a random chapter from James Legge's translation of the _Dao De
 
 The program then performs phoneme analysis on the filtered text. Each phoneme is matched with a 3d-shape. These 3d-shapes were created using the "super shape" formula written by Paul Bourke (http://paulbourke.net/geometry/supershape/).
 
-
-<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/001.png" width="200"/>
+<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/001.png" width="200"/> 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/002.png" width="200"/>
+<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/phonemeChart.png" width="600"/> 
 
 ![](imagesStorage/Screenshot%202021-02-19%20at%204.49.16%20PM.png)
 
