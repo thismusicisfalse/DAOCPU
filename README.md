@@ -4,7 +4,7 @@
 
 _DAOCPU_ is a composition that was informed by and developed in parallel to _Ensembl: An Ethereum-Based Platform for Decentralised Organising of Artistic Production_. _Ensembl_ was initiated by Samson Young, Dr. Massimiliano Mollona, and MetaObjects (Andrew Crowe and Ashley Lee Wong) in 2020 (https://www.goethe.de/ins/gb/en/ver.cfm?fuseaction=events.detail&event_id=22087803). 
 
-At present, _DAOCPU_ is consisted of (1) a generative electronic composition written in CHUCK (https://chuck.cs.princeton.edu/); (2) a text visualization and analysis program written in Processing (https://processing.org/), which, is a standalone program but also has a "latent" relationship with the generative composition and may be played together; (3) drawings, which are inspired by the interactions that led to the development of _Ensembl_ (a sort of off-chain record of version history). At present all three components are under development.
+At present, _DAOCPU_ is consisted of (1) a generative electronic composition written in CHUCK (https://chuck.cs.princeton.edu/); (2) a Dao De Jing analysis and visualization program written in Processing (https://processing.org/), which, is a standalone program but also has a "latent" relationship with the generative composition and may be played together; (3) drawings, which are inspired by the interactions that led to the development of _Ensembl_ (a sort of off-chain record of version history). At present all three components are under development.
 
 Future components of _DAOCPU_ will include: musical instrument design, libretto, and costume. There are two categories of components: "generative" components, and "other" components.
 
@@ -20,13 +20,13 @@ Below are more general, audience-facing descriptions of the currently-available 
 
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.42.06%20PM.png)
 
-This is a generative composition written in CHUCK. It is consisted of four sub-components: a conductor patch that controls time, and three sound-generating "musician" patches. 
+This is a generative composition written in CHUCK. It is consisted of four sub-components: a conductor patch that controls time, and three sound-generating "musician" patches.
 
 By downloading the code, and also CHUCK's miniAudicle, a user may listen to / run the standalone version of the composition on the computer. In the standalone version, the musician patches (they are called 'Silvering,' 'Mum Changing Tempo,' and 'Blurred Roland') are making the sound, while the conductor is keeping track of when a patch is about to finish improvizing. When that happens, the conductor introduces the next patch in line, ensuring that there is enough of an overlap between patches so as not to break texture, but not so much that notes clash, or miniAudicle crash. The conductor ocassionally introduces samples of the heart mantra into the texture.
 
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.52.51%20PM.png)
 
-The generative composition may also be paired with the visualization program. In this combination, the visualization program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
+The generative composition may also be paired with the Dao De Jing analysis program. In this combination, the Dao De Jing analysis program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
 
 This component may also be used as a "backing track" for an improvizer to perform alongside. A backing track version of the composition is currently under development.
 
@@ -34,7 +34,7 @@ This component may also be used as a "backing track" for an improvizer to perfor
 
 ## Component 2: Dao De Jing analysis, _generative_
 
-This is a text analysis program, written in Processing. The program was designed to perform analysis on a text so that the results may be used to generate other non-text properties (time for music, visual for fabrics, 3d models, etc.).
+This is a text analysis and visualization program, written in Processing. The program was designed to perform analysis on a text so that the results may be used to generate other non-text properties (time for music, visual for fabrics, 3d models, etc.).
 
 The program picks a random chapter from James Legge's translation of the _Dao De Jing_ (https://en.wikipedia.org/wiki/Tao_Te_Ching & https://ctext.org/dao-de-jing), and filters the chosen chapter's text using Daniel Howe's riTa library (https://rednoise.org/rita/#reference). At present, the filter leaves only the nouns and the punctuations in the result that it returns. The filtered text becomes the basis for a time strucuture, which is currently implemented as timed disruptions in the generative composition, but may have other uses. 
 
