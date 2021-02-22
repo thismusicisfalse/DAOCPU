@@ -20,4 +20,19 @@ By downloading the code, and also CHUCK's miniAudicle, a user may listen to / ru
 
 ![](imagesStorage/Screenshot%202021-02-22%20at%2012.52.51%20PM.png)
 
-The generative composition may also be paired with the visualization program. In this combination, the visualization program functions like a "meta-conductor". It generates "interruption melodies" that causes small but very noticable disruptions in musical time. The program achieves this by processing the text of the _Dao Te Ching_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor patch.
+The generative composition may also be paired with the visualization program. In this combination, the visualization program functions like a "meta-conductor". It generates "interruption melodies" that causes brief disruptions in musical time. The program achieves this by processing the text of the _Dao De Jing_, and translating punctuations into number of notes in a melody. It also takes over the introduction-of-mantra function from the conductor program.
+
+## Component 2: Dao De Jing, _generative_
+
+This is a text analysis program written in Processing. The program was mainly designed to perform analysis on a text, so that the results may be used to generate other non-text features (time for music, visual for costumes, 3d models, etc.). But it may also be viewed on its own.
+
+The program takes a random chapter from James Legge's translation of the _Dao De Jing_ (https://en.wikipedia.org/wiki/Tao_Te_Ching) & (https://ctext.org/dao-de-jing), and filters the chapter using Daniel Howe's riTa library (https://rednoise.org/rita/#reference). At present, the program's filter leaves only the nouns and the punctuations in. The filtered text is the basis for timed-disruptions in the generative composition.
+
+The program then performs phoneme analysis on the filtered text. Each phoneme is matched with a 3d-shape. These 3d-shapes were created using the "super shape" formula written by Paul Bourke (http://paulbourke.net/geometry/supershape/).
+
+![](imagesStorage/001.png)
+![](imagesStorage/002.png)
+![](imagesStorage/Screenshot%202021-02-19%20at%204.49.16%20PM.png)
+
+The program also performs additional sentiment analysis on the filtered text, using Google's Natural Language API (https://cloud.google.com/natural-language/). At present, this feature is provided, but is not linked to any non-text features.
+
