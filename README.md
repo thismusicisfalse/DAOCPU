@@ -34,7 +34,7 @@ This component may also be used as a "backing track" for an improvizer to perfor
 
 This is a text analysis program, written in Processing. The program was designed to perform analysis on a text so that the results may be used to generate other non-text properties (time for music, visual for fabrics, 3d models, etc.).
 
-The program picks a random chapter from James Legge's translation of the _Dao De Jing_ (https://en.wikipedia.org/wiki/Tao_Te_Ching) & (https://ctext.org/dao-de-jing), and filters the chapter's text using Daniel Howe's riTa library (https://rednoise.org/rita/#reference). At present, the filter leaves only the nouns and the punctuations in the result that it returns. The filtered text becomes the basis for a time strucuture, which is currently implemented as timed disruptions in the generative composition, but may have other uses. 
+The program picks a random chapter from James Legge's translation of the _Dao De Jing_ (https://en.wikipedia.org/wiki/Tao_Te_Ching & https://ctext.org/dao-de-jing), and filters the chosen chapter's text using Daniel Howe's riTa library (https://rednoise.org/rita/#reference). At present, the filter leaves only the nouns and the punctuations in the result that it returns. The filtered text becomes the basis for a time strucuture, which is currently implemented as timed disruptions in the generative composition, but may have other uses. 
 
 The program then performs phoneme analysis on the filtered text. Each phoneme is matched with a 3d-shape. These 3d-shapes were created using the "super shape" formula written by Paul Bourke (http://paulbourke.net/geometry/supershape/). This then becomes the basis for visual patterns.
 
