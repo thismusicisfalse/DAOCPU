@@ -32,7 +32,7 @@ The program then performs phoneme analysis on the filtered text. Each phoneme is
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/001.png" width="200"/> 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/002.png" width="200"/>
-<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/phonemeChart.png" width="600"/> 
+<img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/phonemeChartnew.png"> 
 
 ![](imagesStorage/Screenshot%202021-02-19%20at%204.49.16%20PM.png)
 
