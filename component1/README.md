@@ -10,20 +10,18 @@ Component 1 is a generative composition written in the CHUCK language (https://c
 
 After installing Chuck, go to Preferences > Audio, and check that your audio output is set correctly. Unless you have an audio interface, this should be set to your computer's speakers.
 
-## Standalone version
+## Standalone version instruction
 
-Download STANDALONE STEREO.zip (https://github.com/thismusicisfalse/DAOCPU/blob/main/component1/STANDALONE%20STEREO.zip)
-
-Unzip the folder onto your desktop. Click into the folder. Double click on the “CLICK THIS TO START” icon.
+1. Download STANDALONE STEREO.zip (https://github.com/thismusicisfalse/DAOCPU/blob/main/component1/STANDALONE%20STEREO.zip). Unzip the folder onto your desktop. Click into the folder. Double click on the “CLICK THIS TO START” icon.
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0001.png" width="400"/> 
 
-Find the “Virtual Machine” window, and click on the “Start Virtual Machine” button.
+2. Find the “Virtual Machine” window, and click on the “Start Virtual Machine” button.
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0002.png" width="300"/> 
 
-Find the window that says “click this to start” on top, and then click on the GREEN PLUS+ sign that says “Add Shred.”
+3. Find the window that says “click this to start” on top, and then click on the GREEN PLUS+ sign that says “Add Shred.”
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0003.png" width="400"/> 
 
-The program will begin making sound after around 10 seconds. The program will keep playing until you shut down miniAudicle.
+4. The program will begin making sound after around 10 seconds. The program will keep playing until you shut down miniAudicle.
