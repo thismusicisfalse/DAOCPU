@@ -8,7 +8,7 @@ Component 1 is a generative composition written in the CHUCK language (https://c
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/chuckSetup.png" width="400"/> 
 
-After installing Chuck, go to Preferences > Audio, and check that your audio output is set correctly. Unless you have an audio interface, this should be set to your computer's speakers.
+After installing Chuck, go to Preferences > Audio, and check that your audio output is set correctly. Unless you have an audio interface, this should be set to your computer's speakers. Make sure 'enable audio' is checked.
 
 ## Standalone version instruction
 
