@@ -10,6 +10,8 @@ Component 1 is a generative composition written in the CHUCK language (https://c
 
 After installing Chuck, go to Preferences > Audio, and check that your audio output is set correctly. Unless you have an audio interface, this should be set to your computer's speakers. Make sure 'enable audio' is checked.
 
+---
+
 ## Standalone version instruction
 
 1. Download STANDALONE STEREO.zip (https://github.com/thismusicisfalse/DAOCPU/blob/main/component1/STANDALONE%20STEREO.zip). 
@@ -26,3 +28,15 @@ After installing Chuck, go to Preferences > Audio, and check that your audio out
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0003.png" width="400"/> 
 
 5. The program will begin making sound after around 10 seconds. The program will keep playing until you shut down miniAudicle.
+
+---
+
+## Standalone conducted version instruction
+
+(Under development)
+
+---
+
+## Standalone conducted version instruction
+
+(Under development)
