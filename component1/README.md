@@ -12,16 +12,17 @@ After installing Chuck, go to Preferences > Audio, and check that your audio out
 
 ## Standalone version instruction
 
-1. Download STANDALONE STEREO.zip (https://github.com/thismusicisfalse/DAOCPU/blob/main/component1/STANDALONE%20STEREO.zip). Unzip the folder onto your desktop. Click into the folder. Double click on the “CLICK THIS TO START” icon.
+1. Download STANDALONE STEREO.zip (https://github.com/thismusicisfalse/DAOCPU/blob/main/component1/STANDALONE%20STEREO.zip). 
+2. Unzip the folder onto your desktop. Click into the folder. Double click on the “CLICK THIS TO START” icon.
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0001.png" width="400"/> 
 
-2. Find the “Virtual Machine” window, and click on the “Start Virtual Machine” button.
+3. Find the “Virtual Machine” window, and click on the “Start Virtual Machine” button.
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0002.png" width="300"/> 
 
-3. Find the window that says “click this to start” on top, and then click on the GREEN PLUS+ sign that says “Add Shred.”
+4. Find the window that says “click this to start” on top, and then click on the GREEN PLUS+ sign that says “Add Shred.”
 
 <img src="https://github.com/thismusicisfalse/DAOCPU/blob/main/imagesStorage/0003.png" width="400"/> 
 
-4. The program will begin making sound after around 10 seconds. The program will keep playing until you shut down miniAudicle.
+5. The program will begin making sound after around 10 seconds. The program will keep playing until you shut down miniAudicle.
